@@ -1,0 +1,18 @@
+{
+  "name": "devburguer-api",
+  "version": "1.0.0",
+  "description": "Api of DevBurguer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Tiago Santos",
+    "url": "https://github.com/Tigas29 "
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
