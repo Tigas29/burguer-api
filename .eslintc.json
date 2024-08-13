@@ -1,0 +1,16 @@
+{
+  "env":{
+    "es2021": true,
+    "node": true
+},
+"extends": ["aornmn-base", "prettier"],
+"plugins": ["prettier"],
+"override": [],
+"parseOptions":{
+    "ecmaVersion": "lastest",
+    "sourceType": "module"
+},
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
